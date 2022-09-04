@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=TodoUI
+comment0.text=\n\ Write\ a\ description\ of\ class\ TodoUI\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=TodoUI()
+comment2.params=
+comment2.target=void\ addListeners()
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=javax.swing.JPanel\ composeNewTaskPanel()
+comment5.params=todoItem
+comment5.target=javax.swing.JPanel\ composeSingleTodoItemView(TodoItem)
+comment6.params=todoItems
+comment6.target=javax.swing.JPanel\ composeTodoItemListView(TodoItem[])
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

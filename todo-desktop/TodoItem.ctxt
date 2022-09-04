@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=TodoItem
+comment0.text=\n\ The\ TodoItem\ object\n\n\ @author\ SeunMatt\n\ @version\ 03/09/2022\n
+comment1.params=
+comment1.target=TodoItem()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ TodoItem\n
+comment2.params=status
+comment2.target=void\ setStatus(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getStatus()
+comment4.params=dueDate
+comment4.target=void\ setDueDate(java.util.Date)
+comment5.params=
+comment5.target=java.util.Date\ getDueDate()
+comment6.params=
+comment6.target=java.lang.String\ getId()
+comment7.params=id
+comment7.target=void\ setId(java.lang.String)
+comment8.params=task
+comment8.target=void\ setTask(java.lang.String)
+comment9.params=
+comment9.target=java.lang.String\ getTask()
+numComments=10

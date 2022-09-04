@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ResultEventListener
+comment0.text=\n\ Write\ a\ description\ of\ class\ ResultEventListener\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=additionGuiCalculator
+comment1.target=ResultEventListener(AdditionGuiCalculator)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ ResultEventListener\n
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+numComments=3

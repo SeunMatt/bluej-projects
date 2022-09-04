@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Calculator
+comment1.params=
+comment1.target=Calculator()
+comment2.params=a\ b
+comment2.target=java.lang.Double\ logic(java.lang.Double,\ java.lang.Double)
+comment3.params=
+comment3.target=void\ frame()
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

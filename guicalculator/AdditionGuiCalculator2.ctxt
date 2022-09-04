@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=AdditionGuiCalculator2
+comment0.text=\n\ Write\ a\ description\ of\ class\ AdditionGuiCalculator2\ here.\n\n\ @author\ SeunMatt\n\ @version\ 16/07/2022\n
+comment1.params=
+comment1.target=AdditionGuiCalculator2()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ AdditionGuiCalculator2\n
+comment2.params=a\ b
+comment2.target=double\ addTwoNumbers(double,\ double)
+comment3.params=
+comment3.target=void\ handleResultButtonClicked()
+comment4.params=
+comment4.target=void\ composeGUI()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=javax.swing.JTextField\ getFirstNumberInputField()
+comment7.params=
+comment7.target=javax.swing.JTextField\ getSecondNumberInputField()
+comment8.params=
+comment8.target=javax.swing.JLabel\ getResultLabel()
+comment9.params=args
+comment9.target=void\ main(java.lang.String[])
+numComments=10
